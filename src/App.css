@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to right, rgb(255, 255, 128), rgb(34, 189, 251));
+}
+h1 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h3 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: none;
+}
+
+button {
+  background:linear-gradient(to right, rgb(9, 247, 38), rgb(2, 52, 253));
+  border-style: hidden;
+}
+button:focus {outline:0;}
